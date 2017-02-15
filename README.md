@@ -1,0 +1,2 @@
+# EntityFrameworkCodeFirst
+ConsoleApp
